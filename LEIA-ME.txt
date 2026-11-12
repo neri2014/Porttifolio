@@ -1,0 +1,16 @@
+PORTFÓLIO PROFISSIONAL — NÉRI DA SILVA PARENTE
+
+Esta versão está em português brasileiro.
+
+Arquivos:
+- index.html: portfólio responsivo com apresentação profissional, experiência, projetos, filtros e contato.
+
+Como abrir:
+1. Extraia o arquivo ZIP.
+2. Abra index.html no navegador.
+3. Para publicar na internet, envie os arquivos para um serviço de hospedagem de páginas estáticas ou para seu servidor.
+
+Antes de publicar:
+- Revise os dados de contato.
+- Adicione capturas de tela reais dos projetos.
+- Confirme as descrições e as funcionalidades de cada produto.

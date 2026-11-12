@@ -1,0 +1,31 @@
+PORTFÓLIO PROFISSIONAL — NÉRI DA SILVA PARENTE
+PACOTE PREPARADO PARA HOSPEDAGEM GRATUITA
+
+Hospedagem recomendada: GitHub Pages (site estático).
+
+PUBLICAR
+1. Entre em https://github.com e crie uma conta, caso ainda não tenha.
+2. Crie um repositório público chamado portfolio-neri.
+3. Extraia este ZIP no computador.
+4. Envie o CONTEÚDO desta pasta para a raiz do repositório (index.html deve ficar na raiz).
+5. No repositório, abra Settings > Pages.
+6. Em Build and deployment, escolha "Deploy from a branch".
+7. Selecione a branch "main" e a pasta "/ (root)"; clique em Save.
+8. Aguarde a publicação e use "Visit site". O endereço será:
+   https://SEU-USUARIO.github.io/portfolio-neri/
+
+IMPORTANTE — AJUSTES APÓS A PUBLICAÇÃO
+- Substitua SEU-USUARIO em robots.txt e sitemap.xml pelo nome exato da conta GitHub.
+- No sitemap.xml, confirme o endereço completo publicado.
+- Confirme telefone, e-mail, LinkedIn, datas e descrições profissionais.
+- Confirme o estágio real dos projetos apresentados.
+- Como o repositório será público, não inclua documentos, senhas, dados pessoais desnecessários ou arquivos privados.
+
+SEO E DIVULGAÇÃO ORGÂNICA
+- Depois que o site estiver público, cadastre-o no Google Search Console.
+- Envie o sitemap.xml para facilitar a descoberta das páginas.
+- Compartilhe o endereço em LinkedIn, assinatura de e-mail, currículo e perfis profissionais.
+- Publique conteúdos úteis sobre projetos e soluções; evite mensagens em massa não solicitadas.
+
+LIMITAÇÃO DESTA ETAPA
+Os arquivos foram preparados, mas o site ainda NÃO está publicado. A publicação exige acesso autorizado à conta GitHub do titular. Não envie senha ou token no chat. Se conectar a integração GitHub, posso ajudar a executar e verificar a publicação.
